@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/AnkeethV/Excel-Sales-Analytics/blob/main/Customer%20performance.pdf)_
+    **1.** Create a _[customer performance report](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/Customer%20Performance.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AnkeethV/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,11 +18,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AnkeethV/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AnkeethV/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/P%26L%20Statement%20by%20Market.pdf)_
 
-   **3.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/AnkeethV/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+   **3.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/P%26L%20Statement%20by%20Month.pdf)_
    
 - **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
